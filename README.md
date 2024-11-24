@@ -1,2 +1,2 @@
 # GitHub
-We are herr to learn git .
+We are here to learn git .
